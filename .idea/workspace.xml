@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a12b67-0dcd-4682-a751-b784a78c3eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exo_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
