@@ -11,17 +11,19 @@ public class Exo_19 {
         int i = 1;
         List num = new ArrayList();
 
-
+        System.out.printf(nombre + "! = 1 x ");
         while (i < nombre){
 
             i++;
             j = j * i;
-            System.out.println(j);
-            num.add(i);
+            System.out.printf(i + " x ");
+            if(i == nombre)
+                System.out.println(" = " + j);
+//            num.add(i);
 
         }
-        for (Object number : num) {
-            System.out.println( number );
-        }
+//        for (Object number : num) {
+//            System.out.println( number );
+//        }
     }
 }
