@@ -12,7 +12,7 @@ public class Exo_19 {
         List num = new ArrayList();
 
         System.out.printf(nombre + "! = 1 x ");
-        while (i < nombre){
+        while (i < (nombre-1)){
 
             i++;
             j = j * i;
@@ -22,6 +22,8 @@ public class Exo_19 {
 //            num.add(i);
 
         }
+        System.out.println(j);
+        System.out.printf(String.valueOf(nombre));
 //        for (Object number : num) {
 //            System.out.println( number );
 //        }
